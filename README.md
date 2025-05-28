@@ -56,10 +56,23 @@ Are you looking for a skilled **React Native UI Developer** to bring your mobile
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-3A6EA5?style=for-the-badge&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**📦 My Plugin:**  
+![NPM](https://img.shields.io/npm/v/@ganesh1011/react-native-responzo?style=for-the-badge&label=react-native-responzo&color=orange)  
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-supported-blue)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-supported-yellow)]()
+[![Bundle Size](https://img.shields.io/bundlephobia/minzip/@ganesh1011/react-native-responzo?label=size&color=success)](https://bundlephobia.com/package/@ganesh1011/react-native-responzo)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](https://github.com/ganesh1011/react-native-responzo)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/ganesh1011/react-native-responzo)
+[![Code Quality](https://img.shields.io/badge/code%20quality-A+-brightgreen)](https://github.com/ganesh1011/react-native-responzo)
+
+I created [`@ganesh1011/react-native-responzo`](https://www.npmjs.com/package/@ganesh1011/react-native-responzo), a responsive utility library for React Native that simplifies handling screen sizes, scaling, and orientation with ease. It's designed to streamline responsive UI development and boost productivity.
 
 ---
 
@@ -88,12 +101,12 @@ Ready to take your mobile app to the next level? Let's discuss your project's de
 - **LinkedIn**: [linkedin.com/in/ganesh-jayaprakash-6b559b1bb](#)
 - **GitHub**: [Ganesh1110](https://github.com/Ganesh1110)
 
----
+ ---
 
-<!--### 📊 **GitHub Stats**-->
+<!--### 📊 **GitHub Stats**
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh1110&show_icons=true&theme=radical)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh1110&show_icons=true&theme=radical)
 
-<!------->
+--- -->
 
 ⭐️ From [Ganesh1110](https://github.com/Ganesh1110)
