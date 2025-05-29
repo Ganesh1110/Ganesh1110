@@ -12,7 +12,7 @@ Are you looking for a skilled **React Native UI Developer** to bring your mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - Building cross-platform mobile apps that look and feel native on both **iOS** and **Android**.
 - Proficient in **React Native** and its ecosystem for seamless app development.
-- Over **4+ years of experience** in developing scalable and maintainable mobile applications.
+- Backed by **years of hands-on experience** in developing scalable and maintainable mobile applications.
 - Expertise in integrating third-party libraries and APIs for enhanced functionality.
 - Skilled in debugging and troubleshooting to ensure smooth app performance across devices.
 
@@ -20,7 +20,7 @@ Are you looking for a skilled **React Native UI Developer** to bring your mobile
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 - Transforming wireframes and concepts into **visually appealing** and **intuitive interfaces**.
 - Strong understanding of **user experience principles** to ensure a delightful user journey.
-- With **4+ years of experience**, I’ve designed interfaces that prioritize usability and accessibility.
+- A **seasoned designer** in crafting interfaces that prioritize usability and accessibility.
 - Proficient in creating interactive prototypes using tools like **Figma** and **Adobe XD**.
 - Collaborated with cross-functional teams to align design with business goals and user needs.
 
@@ -28,7 +28,7 @@ Are you looking for a skilled **React Native UI Developer** to bring your mobile
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=responsive-design&logoColor=white)
 - Creating designs that adapt seamlessly to various screen sizes and orientations.
 - Expertise in using **Flexbox** and **Grid Layouts** for responsive UI development.
-- Over **4+ years of experience** in ensuring consistent app performance across devices.
+- **Well-versed in responsive principles**, ensuring consistency across devices.
 - Skilled in testing and optimizing layouts for different screen resolutions and aspect ratios.
 - Implemented responsive design principles to enhance user experience on both mobile and tablet devices.
 
@@ -36,7 +36,7 @@ Are you looking for a skilled **React Native UI Developer** to bring your mobile
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - Developing **custom UI components** tailored to your app's unique requirements.
 - Expertise in creating **custom calendar components** 🗓️ 📆, **custom tabs**, and **interactive sliders**.
-- With **4+ years of experience**, I’ve built reusable and modular components to streamline development.
+- Known for building **reusable and modular components** that streamline development..
 - Skilled in creating **animated components** using libraries like **React Native Reanimated** and **Lottie**.
 - Enhanced functionality and visual appeal by integrating custom components with app logic.
 
@@ -44,7 +44,7 @@ Are you looking for a skilled **React Native UI Developer** to bring your mobile
 ![Performance](https://img.shields.io/badge/Performance-FF6F61?style=for-the-badge&logo=performance&logoColor=white)
 - Optimizing UI elements for **smooth performance** and a seamless user experience.
 - Expertise in reducing app load times and improving rendering performance.
-- With **4+ years of experience**, I’ve implemented best practices for memory management and code optimization.
+- Regularly applying **performance best practices** in mobile development.
 - Skilled in using tools like **React Native Debugger** and **Flipper** for performance profiling.
 - Delivered high-performance apps by minimizing re-renders and optimizing asset usage.
 
@@ -103,10 +103,10 @@ Ready to take your mobile app to the next level? Let's discuss your project's de
 
  ---
 
-<!--### 📊 **GitHub Stats**
+### 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ganesh1110&show_icons=true&theme=radical)
 
---- -->
+---
 
 ⭐️ From [Ganesh1110](https://github.com/Ganesh1110)
