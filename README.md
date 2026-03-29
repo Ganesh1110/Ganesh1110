@@ -46,5 +46,5 @@ React Native · React · JavaScript · Redux · Zustand · React Query · Fireba
 ## 📫 Contact
 
 * [ganeshjayaprakash3@gmail.com](mailto:ganeshjayaprakash3@gmail.com)
-* https://linkedin.com/in/ganesh-jayaprakash-6b559b1bb
+* [https://linkedin.com/in/ganesh-jayaprakash-6b559b1bb](https://www.linkedin.com/in/ganesh-jayaprakash-react-native-developer/)
 * https://github.com/Ganesh1110
